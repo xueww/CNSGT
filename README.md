@@ -29,13 +29,15 @@ The computational workflow for this study is as follows:
 
 ## Citation
 
+If you use CNSGT in your research, please cite our paper:
 
-If you use CNSGT in your research, please cite our paper:  
-@article{
-  title={CNSGT: Generative Transformer for De Novo Drug Design Targeting the Central Nervous System},
+```bibtex
+@article{cnsgt2025,
+  title = {CNSGT: Generative Transformer for De Novo Drug Design Targeting the Central Nervous System},
   author={Yingjun Chen, Ding Luo, Shengneng Chen, Tingting Hou,‡ Chao Huang, and Weiwei Xue},
   journal={Journal of Chemical Information and Modeling},
   year={2025},
   volume={XX},
-  pages={YYYY-ZZZZ}
+  pages={YYYY-ZZZZ
+  doi = {10.xxxx/xxxxxx}
 }
