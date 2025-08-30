@@ -26,7 +26,10 @@ The computational workflow for this study is as follows:
 4. **Molecule Generation and Validation**:
    - Generating new candidate molecules using the fine-tuned models.
    - Conducting in-depth validation of the best candidates through molecular docking, MD simulations, and synthetic route analysis.
-##Citation
+
+## Citation
+
+
 If you use CNSGT in your research, please cite our paper:  
 @article{your_citation_key,
   title={CNSGT: Generative Transformer for De Novo Drug Design Targeting the Central Nervous System},
