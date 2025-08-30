@@ -10,8 +10,7 @@ CNSGT is a novel Transformer-based generative framework that integrates a variat
 
 - **Property-Conditioned Generation**: Embeds 6 key CNS physicochemical properties (MW, LogP, LogD, TPSA, HBD, pKa) as conditions to guide the model toward generating molecules with ideal drug-like properties.
 - **Transformer-based VAE Architecture**: Leverages the powerful sequence modeling capabilities of Transformers to capture long-range dependencies in SMILES strings and uses a VAE framework to ensure the novelty and diversity of generated molecules.
-- **Transfer Learning for Target-Specific Design**: Enables the model to generate candidate compounds with high binding potential for a specific target (e.g., DAT) by fine-tuning on an elite set of molecules with high affinity for the target pocket.
-- **End-to-End Validation Workflow**: The project covers not only the model itself but also a complete validation pipeline, from molecular docking and molecular dynamics (MD) simulations to synthetic route analysis by expert chemists.
+- **Transfer Learning for Target-Specific Design**: Enables the model to generate candidate compounds with high binding potential for a specific target (e.g., DAT) by fine-tuning on an elite set of molecules with high affinity for the target pocket..
 
 ## Workflow Overview
 
