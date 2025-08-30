@@ -1,6 +1,6 @@
 # CNSGT: Generative Transformer for De Novo Drug Design Targeting the Central Nervous System
 
-This repository contains the official source code, datasets for the paper **"CNSGT: Generative Transformer for De Novo Drug Design Targeting the Central Nervous System"**.
+This repository contains the official source, datasets for the paper **"CNSGT: Generative Transformer for De Novo Drug Design Targeting the Central Nervous System"**.
 
 ## Overview
 
