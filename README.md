@@ -34,7 +34,7 @@ If you use CNSGT in your research, please cite our paper:
 ```bibtex
 @article{cnsgt2025,
   title = {CNSGT: Generative Transformer for De Novo Drug Design Targeting the Central Nervous System},
-  author={Yingjun Chen, Ding Luo, Shengneng Chen, Tingting Hou,‡ Chao Huang, and Weiwei Xue},
+  author={Yingjun Chen, Ding Luo, Shengneng Chen, Tingting Hou, Chao Huang, and Weiwei Xue},
   journal={Journal of Chemical Information and Modeling},
   year={2025},
   volume={XX},
